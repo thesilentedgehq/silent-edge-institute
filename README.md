@@ -100,7 +100,7 @@ It defines atmosphere, environmental psychology, spatial logic, movement, light,
 
 ### Genesis Chapters
 
-- Chapter I — The Soul of Genesis *(awaiting publication)*
+- [Chapter I — The Soul of Genesis](docs/genesis-bible/chapters/01-the-soul-of-genesis.md)
 - Chapter II — Arrival *(planned)*
 - Chapter III — The Atrium *(planned)*
 - Chapter IV — The Living World *(planned)*
